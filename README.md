@@ -4,6 +4,6 @@
 The Gabe Programming Language
 
 # Syntax
-`+` - add  the integer value 1 to memory.
+`char % 2 == 1` - add  the integer value 1 to memory.
 
-`>` - output memory in stdout and then reset it.
+`char % 2 == 0` - output memory in stdout and then reset it.
