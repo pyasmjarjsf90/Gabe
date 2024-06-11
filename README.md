@@ -5,4 +5,5 @@ The Gabe Programming Language
 
 # Syntax
 `+` - add  the integer value 1 to memory.
+
 `>` - output memory in stdout and then reset it.
